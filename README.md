@@ -27,7 +27,7 @@ Cara Menjalankan
 3. jalankan RC4.py dengan klik kanan run code atau ctrl + alt + N di dalam file
 
 - Contoh Output Sukses : 
-![Screenshot Hasil Sukses](Gambar/Sukses.JPG)
+![Screenshot Hasil Sukses](Gambar/Sukses.png)
 - Contoh Output Gagal :
 ![Screenshot Hasil Gagal](Gambar/Gagal.png)
 

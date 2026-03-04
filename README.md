@@ -21,15 +21,18 @@ Overview Program :
    - Konversi ASCII
 
 -----------------------------------------------------------
-Cara Menjalankan
-1. copy git clone https://github.com/Firzakrn/Implementasi_Kriptografi_MatkulKDI
-2. paste pada terminal
-3. jalankan RC4.py dengan klik kanan run code atau ctrl + alt + N di dalam file
+**Cara Menjalankan**
+1. Buat folder baru di Visual Studio Code
+2. Buat terminal baru atau ctrl + shift + `
+3. Paste " git clone https://github.com/Firzakrn/Implementasi_Kriptografi_MatkulKDI.git . "
+4. jalankan RC4.py dengan klik kanan run code atau ctrl + alt + N di dalam file RC4.py
 
+**Output Program**
 - Contoh Output Sukses : 
 ![Screenshot Hasil Sukses](Gambar/Sukses.png)
 - Contoh Output Gagal :
 ![Screenshot Hasil Gagal](Gambar/Gagal.png)
 
+-----------------------------------------------------------
 Logika dasar pada proyek ini diadaptasi dan dimodifikasi dari dokumentasi algoritma RC4 oleh GeeksforGeeks 
 (Tersedia di: https://www.geeksforgeeks.org/computer-networks/rc4-encryption-algorithm/).
